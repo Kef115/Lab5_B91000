@@ -1,0 +1,5 @@
+# ninja log v5
+1	22	1749173616224490912	mi_programa.p/src_main.c.o	b312a6a11b13ba4d
+1	38	1749173616238890912	mi_programa.p/src_json.c.o	1eddfa3a2eb992bf
+1	135	1749173616336090912	mi_programa.p/src_cJSON.c.o	c1b5eedcbca6729a
+135	186	1749173616386490912	mi_programa	ff72e4202ed3cb4c

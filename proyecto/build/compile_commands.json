@@ -1,0 +1,20 @@
+[
+  {
+    "directory": "/home/kef/proyecto/build",
+    "command": "cc -Imi_programa.p -I. -I.. -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -MD -MQ mi_programa.p/src_main.c.o -MF mi_programa.p/src_main.c.o.d -o mi_programa.p/src_main.c.o -c ../src/main.c",
+    "file": "../src/main.c",
+    "output": "mi_programa.p/src_main.c.o"
+  },
+  {
+    "directory": "/home/kef/proyecto/build",
+    "command": "cc -Imi_programa.p -I. -I.. -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -MD -MQ mi_programa.p/src_json.c.o -MF mi_programa.p/src_json.c.o.d -o mi_programa.p/src_json.c.o -c ../src/json.c",
+    "file": "../src/json.c",
+    "output": "mi_programa.p/src_json.c.o"
+  },
+  {
+    "directory": "/home/kef/proyecto/build",
+    "command": "cc -Imi_programa.p -I. -I.. -I../src -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -MD -MQ mi_programa.p/src_cJSON.c.o -MF mi_programa.p/src_cJSON.c.o.d -o mi_programa.p/src_cJSON.c.o -c ../src/cJSON.c",
+    "file": "../src/cJSON.c",
+    "output": "mi_programa.p/src_cJSON.c.o"
+  }
+]
